@@ -1,0 +1,11 @@
+<pedido>
+    <codigo>1</codigo>
+    <numeroControle>1001</numeroControle>
+    <dataCadastro>2024-06-11</dataCadastro>
+    <nome>Produto A</nome>
+    <valor>50.0</valor>
+    <quantidade>2</quantidade>
+    <codigoCliente>1</codigoCliente>
+  </pedido>
+  <!-- Adicione mais pedidos conforme necessário -->
+</pedidos>
